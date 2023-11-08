@@ -1,0 +1,1153 @@
+@media (max-width: 1920px) {
+    .scroll_ann {
+        height: 553px;
+     }
+
+    .total_icon_div {
+        height: 123px;
+        margin: 0 10px;
+    }
+
+
+    .dash_tab_2 {
+    }
+
+    .dash_tab_2.dash_tab_5 {
+        height: auto;
+    }
+    .dash_tab_2.dash_tab_4{
+    }
+    .drive_sec .req_box {
+        height: 214px;
+        padding: 10px 18px;
+    }
+    .dash_tab_2.dash_tab_5 {
+        height: 750px;
+    }
+    .dash_tab_2 {
+    height: 740px;
+    }
+
+    .req_box  h3 {
+        font-size: 17px;
+        line-height: 35px;
+    }
+    .cross {
+        margin: 0 0 0 -10px;
+    } 
+        
+    .dash_tab_2.dash_tab_4 {
+    }
+     .dash_tab_2.dash_tab_5 {
+        height: 740px;
+    }   
+    .req_box  h4 img {
+        margin: 0 0px 0 0px;
+        width: 30px;
+    } 
+    .req_box  h4 {
+        font-size: 16px;
+        line-height: 29px;
+    }
+    .stud_form {
+        padding: 14% 5%;
+    }
+    .profile_left_tabs  .nav-link {
+        font-size: 15px;
+        width: 240px;
+        margin: 0 0 20px;
+        border-radius: 6px !important;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 570px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 750px;
+    }
+        .main_body.student .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 22%;
+    }
+      .main_body.student .stud_form {
+        padding: 3% 5%;
+    }
+     .main_body.student .stud_form  input[type="text"], 
+     .main_body.student .stud_form  input[type="password"], 
+     .main_body.student .stud_form  input[type="submit"], 
+     .main_body.student .stud_form  input[type="email"], 
+     .main_body.student .stud_form  input[type="url"], 
+     .main_body.student .stud_form  input[type="number"],      
+     .main_body.student .stud_form select, 
+     .main_body.student .stud_form  textarea, 
+     .main_body.student .stud_form  input[type="tel"] {
+        font-size: 18px;
+        line-height: 28px;
+        height: 50px;
+    }
+        .main_body.student .right_dash {
+        background: #fff9e9;
+        height: 100%;
+        overflow: auto;
+    }
+        .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 40%;
+    }
+    .stud_form {
+    padding: 4% 5% 4%;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 55px;
+    
+    }
+    
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 21px 10px;
+    }
+    .dt_main.dr .sticky, 
+    .dt_main.st .sticky, 
+    .dt_main.pr .sticky {
+        width: 97%;
+        padding: 10px 20px;
+        top: 22px;
+        left: 23px;
+    }
+    .stud_form.ddt {
+        padding: 10% 5%;
+    }
+    .child_text {
+        padding: 10px 0px 0 0px;
+    }
+    .parent_detail.success_modal  .modal-dialog {
+        margin: 0rem auto 0;
+    }
+ 
+}
+
+@media (max-width: 1680px) {
+    .scroll_ann {
+        height: 452px;
+     }
+
+    .total_icon_div {
+        height: 123px;
+        margin: 0 10px;
+    }
+
+    .dash_tab_2.dash_tab_5 {
+        height: auto;
+    }
+    .dash_tab_2.dash_tab_4{
+        height: 760px;
+    }
+    .drive_sec .req_box {
+        height: 214px;
+    }
+    .dash_tab_2.dash_tab_5 {
+        height: 750px;
+    }
+    .dash_tab_2 {
+        height: 660px;
+    }
+
+    .req_box  h3 {
+        font-size: 15px;
+        line-height: 35px;
+    }
+    .cross {
+        margin: 0 0 0 -10px;
+    } 
+        
+    .dash_tab_2.dash_tab_4 {
+       height: 654px;
+    }
+    .main_map iframe {
+        width: 100%;
+        height: 617px;
+    }
+     .dash_tab_2.dash_tab_5 {
+            height: 680px;
+    }   
+    .req_box  h4 img {
+        margin: 0 0px 0 0px;
+        width: 30px;
+    } 
+    .req_box  h4 {
+        font-size: 14px;
+        line-height: 29px;
+    }
+    .stud_form {
+        padding: 14% 5%;
+    }
+    .profile_left_tabs  .nav-link {
+        font-size: 15px;
+        width: 240px;
+        margin: 0 0 20px;
+        border-radius: 6px !important;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 485px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 670px;
+    }
+    .main_body.student .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 17%;
+    }
+      .main_body.student .stud_form {
+        padding: 3% 5%;
+    }
+     .main_body.student .stud_form  input[type="text"], 
+     .main_body.student .stud_form  input[type="password"], 
+     .main_body.student .stud_form  input[type="submit"], 
+     .main_body.student .stud_form  input[type="email"], 
+     .main_body.student .stud_form  input[type="url"], 
+     .main_body.student .stud_form  input[type="number"],      
+     .main_body.student .stud_form select, 
+     .main_body.student .stud_form  textarea, 
+     .main_body.student .stud_form  input[type="tel"] {
+        font-size: 18px;
+        line-height: 28px;
+        height: 50px;
+    }
+        .main_body.student .right_dash {
+        background: #fff9e9;
+        height: 100%;
+        overflow: auto;
+    }
+    
+    .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 20%;
+    }
+    .stud_form.ddt {
+        padding: 19% 5% !important;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 50px;
+    
+    }
+    .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 34%;
+    }
+
+    #calender_main .table-calendar td,
+    #calender_main .table-calendar th {
+        padding: 15px 10px;
+    }
+    .drive_sec .child_text.class_text {
+        text-align: end;
+        padding: 10px 10px 0 0;
+    }
+        .parents_requaste.v .child_text {
+        padding: 16px 0 0 0;
+    }
+    .req_box .col-xs-6.col-sm-6.col-md-6.col-lg-6 {
+        padding: 0;
+    }
+    .req_box  h4 {
+        font-size: 12px;
+    }
+}
+@media (max-width: 1440px) {
+    .scroll_ann {
+        height: 379px;
+  }
+
+    .total_icon_div {
+        height: 103px;
+        margin: 0 10px;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 430px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2 {
+        height: 560px;
+    }
+
+    .dash_tab_2.dash_tab_5 {
+    height: 570px;
+    }
+    .dash_tab_2.dash_tab_4 {
+        height: 620px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link p {
+        line-height: 16px;
+        font-size: 11px;
+    }
+    .ann_div h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .total_icon a {
+        height: 63px;
+        width: 63px;
+        font-size: 20px;
+    }
+    .chat_input {
+        width: 96%;
+    }
+    .btn.btn_green {
+        font-size: 15px;
+
+    }
+    .req_box  h4 img {
+        margin: 0 5px 0 0px;
+        width: 30px;
+    }
+    .req_box  h4 {
+        font-size: 12px;
+    }
+    .req_box span {
+        font-size: 12px !important;
+    }
+    .parents_requaste .req_box {
+        height: 210px;
+        padding: 20px 16px;
+    }
+    .coll_btn a {
+        width: 126px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .total_text span {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    
+    .status h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .dash_nav  .nav-link {
+        height: 50px;
+        font-size: 14px;
+    }
+    .jhon_div h4 {
+        font-size: 14px;
+    }
+    input[type="text"], input[type="password"], select, input[type="email"], input[type="url"], input[type="number"], textarea, input[type="tel"] {
+
+        font-size: 16px;
+        line-height: 28px;
+        height: 50px;
+    
+    }
+   .fill_div button {
+        font-size: 20px;
+        width: 36px;
+        height: 49px;
+    } 
+    .dash_tab_2 table tr td {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link h4 {
+        font-size: 15px;
+        line-height: 29px;
+    }
+     .chat_right_main h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }   
+            .dash_table {
+        overflow-x: hidden;
+        height: 436px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 550px;
+    }
+    .annouce_btn a {
+        font-size: 15px;
+    }
+           .main_body.student .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 16%;
+    }
+      .main_body.student .stud_form {
+        padding: 3% 5%;
+    }
+     .main_body.student .stud_form  input[type="text"], 
+     .main_body.student .stud_form  input[type="password"], 
+     .main_body.student .stud_form  input[type="submit"], 
+     .main_body.student .stud_form  input[type="email"], 
+     .main_body.student .stud_form  input[type="url"], 
+     .main_body.student .stud_form  input[type="number"],      
+     .main_body.student .stud_form select, 
+     .main_body.student .stud_form  textarea, 
+     .main_body.student .stud_form  input[type="tel"] {
+        font-size: 18px;
+        line-height: 28px;
+        height: 45px;
+    } 
+        .main_body.student .right_dash {
+        background: #fff9e9;
+        height: 100%;
+        overflow: auto;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 10px 10px;
+        font-size: 16px;
+
+    }
+        
+    .cross ul li a {
+        width: 30px;
+        height: 30px;
+        margin: 0 0 0 10px;
+        font-size: 11px;
+    }
+
+    .req_box  h3 {
+        font-size: 12px;
+        line-height: 35px;
+    }
+    .drive_sec  .req_box  h4 {
+        font-size: 13px;
+    }
+    .main_map iframe {
+        width: 100%;
+        height: 567px;
+    }
+    .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 20%;
+    }
+    .stud_form {
+    padding: 3% 5% 0%;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 45px;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 12px 10px;
+    }
+    .parents_requaste.v .child_text {
+        padding: 16px 0 0 0;
+    }
+    .req_box .col-xs-6.col-sm-6.col-md-6.col-lg-6 {
+        padding: 0;
+    }
+    .req_box  h4 {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .scroll_ann {
+        height: 379px;
+  }
+
+    .total_icon_div {
+        height: 103px;
+        margin: 0 10px;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 430px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2 {
+        height: 560px;
+    }
+
+    .dash_tab_2.dash_tab_5 {
+    height: 580px;
+    }
+    .dash_tab_2.dash_tab_4{
+        height: 550px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link p {
+        line-height: 16px;
+        font-size: 11px;
+    }
+    .ann_div h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .total_icon a {
+        height: 63px;
+        width: 63px;
+        font-size: 20px;
+    }
+    .chat_input {
+        width: 96%;
+    }
+    .btn.btn_green {
+        font-size: 15px;
+
+    }
+    .req_box  h4 img {
+        margin: 0 5px 0 0px;
+        width: 30px;
+    }
+    .req_box  h4 {
+        font-size: 11px;
+    }
+    .req_box span {
+        font-size: 12px !important;
+    }
+    .parents_requaste .req_box {
+        height: 210px;
+        padding: 10px 16px;
+    }
+    .coll_btn a {
+        width: 126px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .total_text span {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    
+    .status h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .dash_nav  .nav-link {
+        height: 50px;
+        font-size: 14px;
+    }
+    .jhon_div h4 {
+        font-size: 14px;
+    }
+    input[type="text"], input[type="password"], select, input[type="email"], input[type="url"], input[type="number"], textarea, input[type="tel"] {
+
+        font-size: 16px;
+        line-height: 28px;
+        height: 50px;
+    
+    }
+   .fill_div button {
+        font-size: 20px;
+        width: 36px;
+        height: 49px;
+    } 
+    .dash_tab_2 table tr td {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link h4 {
+        font-size: 15px;
+        line-height: 29px;
+    }
+     .chat_right_main h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }   
+            .dash_table {
+        overflow-x: hidden;
+        height: 436px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 550px;
+    }    
+    .annouce_btn a {
+        font-size: 15px;
+    }
+        
+    .drive_sec  .req_box  h4 {
+        font-size: 13px !important;
+        line-height: 0px;
+        margin: 0 0 10px;
+    }
+        
+    .form_main h3 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    
+    .success_modal  .modal-dialog {
+        margin: 7rem auto 0;
+    }
+    #calender_main #monthAndYear {
+        font-size: 27px;
+        line-height: 35px;
+    }
+    
+    .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 27%;
+    }
+       .stud_form  input[type="text"], .stud_form  input[type="password"], .stud_form  input[type="email"], .stud_form  input[type="url"], .stud_form  input[type="number"], .stud_form  textarea, .stud_form  input[type="tel"] {
+        height: 50px;
+    } 
+    
+    input[type="submit"] {
+        height: 50px;
+        font-size: 15px;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 23px 10px;
+    }
+    .dash_table input[type="date"] {
+        height: 50px;
+        width: 100%;
+    }
+    
+        .main_body.student .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 16%;
+    }
+      .main_body.student .stud_form {
+        padding: 2% 5%;
+    }
+     .main_body.student .stud_form  input[type="text"], 
+     .main_body.student .stud_form  input[type="password"], 
+     .main_body.student .stud_form  input[type="submit"], 
+     .main_body.student .stud_form  input[type="email"], 
+     .main_body.student .stud_form  input[type="url"], 
+     .main_body.student .stud_form  input[type="number"],      
+     .main_body.student .stud_form select, 
+     .main_body.student .stud_form  textarea, 
+     .main_body.student .stud_form  input[type="tel"] {
+        font-size: 18px;
+        line-height: 28px;
+        height: 40px;
+    }
+    .main_body.student .right_dash {
+        background: #fff9e9;
+        height: 100%;
+        overflow: auto;
+    }
+        #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 7px 10px;
+        font-size: 16px;
+    }
+    .req_box  h3 {
+        font-size: 12px;
+        line-height: 35px;
+    }
+                .parents_requaste.miche .col-xs-12.col-sm-6.col-md-4 {
+    width: 50%;
+        margin: 0 auto;
+    }
+    .dash_tab_2.dash_tab_4  .align-items-center {
+        align-items: flex-start !important;
+    }
+    .dash_tab_2.dash_tab_4  .parents_requaste .req_box {
+        height: 190px;
+        padding: 10px 26px;
+    }
+    .main_map iframe {
+        width: 100%;
+        height: 517px;
+    }
+    
+        .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 20%;
+    }
+    .stud_form {
+    padding: 3% 5% 0%;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 42px;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 10px 10px;
+    }
+    .total_text p {
+        font-size: 17px;
+
+    }
+    /*sheeraz*/
+    .status_date input[type="date"] {
+        height: 37px;
+        width: 36%;
+    }
+    .dash_body {
+        height: 450px;
+    }
+    .dash_modal .modal-dialog {
+        max-width: 410px;
+    }
+    .dash_modal h5 {
+        font-size: 20px;
+        margin: 0 0 0px;
+    }
+    .annoucment_div h4 {
+        font-size: 18px;
+        height: 60px;
+    }
+    .dash_modal p {
+        line-height: 20px;
+        font-size: 18px;
+        margin: 0;
+    }
+    .success_modal.assign  .modal-dialog {
+        max-width: 810px;
+        margin: 10px auto 0;
+    }
+    .child_box ul li img {
+        border-radius: 43px;
+        width: 30px;
+        height: 30px;
+        position: relative;
+        right: -2px;
+    }    
+    .child_box {
+        height: 57px;
+    }
+    .child_box ul li {
+        font-size: 15px;
+    }
+
+    .child_box ul li  .containerd {
+       right: -60px;
+    }
+    .child_box ul {
+        gap: 10px;
+    }
+    .dt_main.dr .sticky, .dt_main.st .sticky, .dt_main.pr .sticky {
+        left: 15px;
+    }
+
+    .profile_right_tabs .stud_form {
+        padding: 5% 5%;
+        height: 580px;
+    }
+
+    .stud_form.change {
+        height: 340px;
+    }
+    .btn.btn_green {
+        font-size: 15px;
+        height: 45px;
+    }
+    #calender_main .ui-datepicker-calendar td {
+        padding: 6px 0px;
+    }
+    .parents_requaste.v .child_text {
+        padding: 16px 0 0 0;
+    }
+    .req_box .col-xs-6.col-sm-6.col-md-6.col-lg-6 {
+        padding: 0;
+    }
+    .req_box  h4 {
+        font-size: 12px;
+    }
+
+}
+@media (max-width: 1280px) {
+    .scroll_ann {
+        height: 379px;
+    }
+
+    .total_icon_div {
+        height: 103px;
+        margin: 0 10px;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 430px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2 {
+        height: 560px;
+    }
+
+    .dash_tab_2.dash_tab_5 {
+        height: 580px;
+        }
+    .dash_tab_2.dash_tab_4{
+        height: 620px;
+        }
+    .chat_left_tabs .nav-tabs .nav-link p {
+        line-height: 16px;
+        font-size: 11px;
+    }
+    .ann_div h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .total_icon a {
+        height: 63px;
+        width: 63px;
+        font-size: 20px;
+    }
+    .chat_input {
+        width: 96%;
+    }
+    .btn.btn_green {
+        font-size: 15px;
+
+    }
+    .req_box  h4 img {
+        margin: 0 5px 0 0px;
+        width: 30px;
+    }
+    .req_box  h4 {
+        font-size: 9px;
+    }
+    .req_box span {
+        font-size: 12px !important;
+    }
+    .parents_requaste .req_box {
+        height: 190px;
+        padding: 10px 20px;
+    }
+    .coll_btn a {
+        width: 126px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .total_text span {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    
+    .status h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .dash_nav  .nav-link {
+        height: 50px;
+        font-size: 14px;
+    }
+    .jhon_div h4 {
+        font-size: 14px;
+    }
+    input[type="text"], input[type="password"], select, input[type="email"], input[type="url"], input[type="number"], textarea, input[type="tel"] {
+
+        font-size: 16px;
+        line-height: 28px;
+        height: 50px;
+    
+    }
+   .fill_div button {
+        font-size: 20px;
+        width: 36px;
+        height: 49px;
+    } 
+    .dash_tab_2 table tr td {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link h4 {
+        font-size: 15px;
+        line-height: 29px;
+    }
+     .chat_right_main h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }   
+            .dash_table {
+        overflow-x: hidden;
+        height: 436px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 550px;
+    }
+    
+    .annouce_btn a {
+        font-size: 15px;
+    }
+        
+    .req_box  h3 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+        
+   .drive_sec  .req_box  h4 {
+        font-size: 11px;
+        line-height: 0px;
+        margin: 0 0 0px;
+    }
+        
+        .parents_requaste.miche .col-xs-12.col-sm-6.col-md-4 {
+    width: 50%;
+    }
+    .dash_tab_2.dash_tab_4  .align-items-center {
+        align-items: flex-start !important;
+    }
+    .dash_tab_2.dash_tab_4  .parents_requaste .req_box {
+        height: 190px;
+        padding: 10px 26px;
+    }
+        .req .req_box  h3 {
+    font-size: 10px;
+    }
+    .cross {
+    margin: 0 0 0 -20px;
+    }
+     .main_map iframe {
+        width: 100%;
+        height: 537px;
+    }   
+        .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 20%;
+    }
+    .stud_form {
+    padding: 3% 5% 0%;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 43px;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 10px 10px;
+    }
+    .parents_requaste.v .child_text {
+        padding: 16px 0 0 0;
+    }
+    .req_box .col-xs-6.col-sm-6.col-md-6.col-lg-6 {
+        padding: 0;
+    }
+    .req_box  h4 {
+        font-size: 12px;
+    }
+} 
+@media (max-width: 1024px) {
+      .scroll_ann {
+            height: 379px;
+      }
+
+    .total_icon_div {
+        height: 103px;
+        margin: 0 10px;
+    }
+
+    .dash_table {
+        overflow-x: hidden;
+        height: 430px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2 {
+        height: 560px;
+    }
+
+    .dash_tab_2.dash_tab_5 {
+    height: 570px;
+    }
+    .dash_tab_2.dash_tab_4{
+        height: 560px;
+        }
+    .chat_left_tabs .nav-tabs .nav-link p {
+        line-height: 16px;
+        font-size: 11px;
+    }
+    .ann_div h5 {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .total_icon a {
+        height: 63px;
+        width: 63px;
+        font-size: 20px;
+    }
+    .chat_input {
+        width: 96%;
+    }
+    .btn.btn_green {
+        font-size: 15px;
+
+    }
+    .req_box  h4 img {
+        margin: 0 5px 0 0px;
+        width: 30px;
+    }
+    .req_box  h4 {
+        font-size: 11px;
+    }
+    .req_box span {
+        font-size: 12px !important;
+    }
+    .parents_requaste .req_box {
+        height: 190px;
+        padding: 10px 16px;
+    }
+    .coll_btn a {
+        width: 126px;
+        height: 40px;
+    font-size: 12px;
+    }
+    .total_text span {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    
+    .status h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .dash_nav  .nav-link {
+        height: 50px;
+        font-size: 14px;
+    }
+    .jhon_div h4 {
+        font-size: 14px;
+    }
+    input[type="text"], input[type="password"], select, input[type="email"], input[type="url"], input[type="number"], textarea, input[type="tel"] {
+    
+        font-size: 16px;
+        line-height: 28px;
+        height: 50px;
+    
+    }
+   .fill_div button {
+        font-size: 20px;
+        width: 36px;
+        height: 49px;
+    } 
+    .dash_tab_2 table tr td {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+    .chat_left_tabs .nav-tabs .nav-link h4 {
+        font-size: 15px;
+        line-height: 29px;
+    }
+     .chat_right_main h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }   
+            .dash_table {
+        overflow-x: hidden;
+        height: 436px;
+        overflow-y: scroll;
+    }
+    .dash_tab_2.drivers , 
+    .dash_tab_2.students , 
+    .dash_tab_2.parents {
+        height: 550px;
+    }
+    .annouce_btn a {
+    font-size: 11px;
+    }
+        .annoucment_div {
+        margin: 19px auto 0;
+    }
+    .dash_table input[type="date"] {
+        width: 100%;
+    }
+
+     .annoucment_div .ann_div p {
+        line-height: 15px;
+        font-size: 13px;
+    }
+    .total_icon a {
+        height: 45px;
+        width: 45px;
+        font-size: 18px;
+    }
+
+    .total_icon a img {
+        width: 20px;
+    }
+
+    .success_modal.assign .btn.btn_green {
+        font-size: 16px;
+        width: 162px;
+        height: 45px;
+        margin: 0 auto;
+    }
+    .dash_tab_2.drivers .parent_table table thead th , .dash_tab_2.drivers  table tr td{
+        font-size: 11px;            
+        padding: 20px 12px;
+    }
+
+    #calender_main .button-container-calendar button {
+        padding: 0;
+    }
+
+
+   .parents_requaste  .col-lg-3 {
+        flex: 0 0 auto;
+        width: 40%;
+        margin: 0 auto;
+    }
+    .parents_requaste.miche .col-xs-12.col-sm-6.col-md-4 {
+        width: 50%;
+    }
+    .dash_tab_2.dash_tab_4  .align-items-center {
+        align-items: flex-start !important;
+    }
+    .dash_tab_2.dash_tab_4  .parents_requaste .req_box {
+        height: 190px;
+        padding: 10px 26px;
+    }
+    .main_map iframe {
+        width: 100%;
+        height: 527px;
+    }
+        .dash_tab_2.dash_tab_4 .stud_form img {
+        width: 20%;
+    }
+    .stud_form {
+    padding: 3% 5% 0%;
+    }
+    .stud_form  input[type="text"], 
+    .stud_form  input[type="submit"], 
+    .stud_form  select  {
+        height: 41px;
+    }
+    #calender_main .table-calendar td, #calender_main .table-calendar th {
+        padding: 7px 10px;
+    }
+    .status_date input[type="date"] {
+        height: 37px;
+        width: 49%;
+    }
+    .total_text {
+        margin: 20px 15px;
+    }
+    .total_icon {
+        margin: 27px auto;
+    }
+    .total_text p {
+        font-size: 14px;
+    }
+    .view a {
+        width: 126px !important;
+            font-size: 12px;
+
+    }
+    .parents_requaste.v .col-xs-12.col-sm-3.col-md-3.col-lg-3 {
+        width: 33%;
+    }
+    .parents_requaste.v .child_text {
+        padding: 15px 0px 0 0px;
+    }
+
+
+}
+@media (max-width: 768px) {
+
+
+}
+@media (max-width: 540px) {}
+@media (max-width: 425px) {}
+@media (max-width: 375px) {}
+@media (max-width: 360px) {
+
+
+
+}
+
